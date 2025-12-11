@@ -8,7 +8,7 @@ const vpConversionCheck = () => { return true; };
 
 export default function SuccessPage() {
   const [timeRemaining, setTimeRemaining] = useState(5);
-  const channelDestination = "https://t.me/+XN8S3AElKvozOTJk";
+  const channelDestination = "https://t.me/+v9nA2WTCO0IxOWVk";
 
   useEffect(() => {
     vpConversionSetup();
